@@ -7,6 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shion2521" />
 </a>
+
 # Links
 - [Blog](https://mixne.hatenablog.com)
 - [Twitter(private)](https://twitter.com/shion2521)

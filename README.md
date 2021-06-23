@@ -5,8 +5,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shion2521" />
 </a>
-
-　Hello.  
+<div align="center">
 　I'm a high school student in Chiba, JP.I'm a [bloger](https://mixne.hatenablog.com) sometimes.Please,check my [Twitter](https://twitter.com/shion2521)
 # Links
 - [Blog](https://mixne.hatenablog.com)
@@ -14,3 +13,4 @@
 - [Twitter(blog)](https://twitter.com/mixne_net)
 
 Other links is [here](shion.ml)...
+</div>
